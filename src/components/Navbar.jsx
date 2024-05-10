@@ -20,7 +20,7 @@ const Navbar = () => {
             </ul> */}
             <button className='text-white bg-green-700 my-5 rounded-full flex justify-between items-center ring-white ring-1'>
                 <img className='invert py-1  w-10' src="/icons/github.svg" alt="github logo" />
-                <span className='font-bold px-4 '>Github</span>
+                <span className='font-bold px-4 '> <a className='hover:font-bold' href="https://github.com/Jayant0403/Credentials_Manager_ReactApp">Github</a></span>
             </button>
             </div>
     </nav>
